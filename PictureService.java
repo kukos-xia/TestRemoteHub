@@ -94,7 +94,7 @@ public interface PictureService extends IService<Picture> {
     /**
      * 删除旧图片
      * @param oldpicture
-	123456789
+	12345678911
      */
     public void clearPictureFile(Picture oldpicture);
 }
